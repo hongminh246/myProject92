@@ -1,0 +1,195 @@
+.loginBody {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.quizBody {
+    background-color: blue;
+    color: white;
+}
+
+.title {
+    font-size: 80px;
+    font-family: fantasy;
+    font-weight: 200;
+}
+
+.login {
+    background-color: white;
+    border-radius: 20px;
+    color: blue;
+    width: 60%;
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    margin-bottom: 20px;
+}
+
+#player1_input,
+#player2_input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: blue;
+    border-width: 5px;
+    color: blue;
+    font-family: fantasy;
+    font-weight: 200;
+    width: 40%;
+    font-size: 20px;
+    color: blue;
+}
+
+.loginHeading {
+    font-size: 30px;
+    font-family: fantasy;
+    font-weight: 200;
+}
+
+.submitbutton {
+    background-color: white;
+    color: blue;
+    border-style: none;
+    font-size: 35px;
+    font-family: fantasy;
+    font-weight: 200;
+    border: none;
+    padding: 10px;
+    border-radius: 25px;
+    width: 20%;
+}
+
+.quizContainer {
+    text-align: center;
+}
+
+.heading {
+    background-color: white;
+    color: blue;
+    width: 70%;
+    margin-top: 2%;
+    border-radius: 50px;
+    padding: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.scoreboard {
+    width: 15%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.score {
+    color: blue;
+    font-family: fantasy;
+    font-weight: 200;
+    font-size: 25px;
+    margin: none;
+}
+
+.inputContainer {
+    margin-top: 10px;
+    background-color: white;
+}
+
+#numberInput1,
+#numberInput2 {
+    color: blue;
+    font-family: fantasy;
+    font-weight: 200;
+    font-size: 20px;
+    margin: 5px;
+    border-radius: 5px;
+    width: 50%;
+}
+
+.questionContainer {
+    background-color: white;
+    width: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 20px;
+}
+
+#questionButton {
+    width: 20%;
+    background-color: blue;
+    color: white;
+    font-family: fantasy;
+    font-weight: 200;
+    font-size: 30px;
+    border-style: none;
+    margin-top: 2%;
+    margin-bottom: none;
+    padding: 8px;
+    border-radius: 30px;
+}
+
+#questionLabel {
+    font-family: fantasy;
+    font-weight: 200;
+    font-size: 20px;
+    color: blue;
+    margin-right: 5px;
+}
+
+#answerInput {
+    font-family: fantasy;
+    font-weight: 200;
+    font-size: 20px;
+    border-radius: 5px;
+    color: blue;
+}
+
+.answerContainer {
+    background-color: white;
+    width: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#answerButton {
+    width: 15%;
+    background-color: blue;
+    color: white;
+    font-family: fantasy;
+    font-weight: 200;
+    font-size: 20px;
+    border-style: none;
+    padding: 8px;
+    margin-left: 10px;
+    border-radius: 30px;
+}
+
+.turnContainer {
+    background-color: white;
+    width: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.turnHeading {
+    font-family: fantasy;
+    font-weight: 200;
+    font-size: 30px;
+    color: blue;
+}
